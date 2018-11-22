@@ -1,0 +1,471 @@
+http://tcn00qubc01505.isn.rtss.qc.ca:10000/manager/html,00-FONC APP 1505,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01506.isn.rtss.qc.ca:10000/manager/html,00-FONC APP 1506,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01519.isn.rtss.qc.ca:10000/manager/html,00-FONC APP 1519,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01505.isn.rtss.qc.ca:10001/manager/html,01-FONC IMP 1505,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01506.isn.rtss.qc.ca:10001/manager/html,01-FONC IMP 1506,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01519.isn.rtss.qc.ca:10001/manager/html,01-FONC IMP 1519,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01505.isn.rtss.qc.ca:10002/manager/html,02-FONC WS 1505,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01506.isn.rtss.qc.ca:10002/manager/html,02-FONC WS 1506,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01519.isn.rtss.qc.ca:10002/manager/html,02-FONC WS 1519,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01505.isn.rtss.qc.ca:10003/manager/html,03-FONC EI 1505,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01506.isn.rtss.qc.ca:10003/manager/html,03-FONC EI 1506,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01519.isn.rtss.qc.ca:10003/manager/html,03-FONC EI 1519,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/manager/html,04-FONC OUTIL 1505,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/manager/html,04-FONC OUTIL 1506,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/manager/html,04-FONC OUTIL 1519,,00-Manager Tomcat Fonctionnel,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:12000/manager/html,00-INTEG APP 1520,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:12000/manager/html,00-INTEG APP 1521,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:12000/manager/html,00-INTEG APP 1522,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:12001/manager/html,01-INTEG IMP 1520,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:12001/manager/html,01-INTEG IMP 1521,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:12001/manager/html,01-INTEG IMP 1522,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:12002/manager/html,02-INTEG WS 1520,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:12002/manager/html,02-INTEG WS 1521,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:12002/manager/html,02-INTEG WS 1522,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:12003/manager/html,03-INTEG EI 1520,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:12003/manager/html,03-INTEG EI 1521,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:12003/manager/html,03-INTEG EI 1522,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:12004/manager/html,04-INTEG OUTIL 1520,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:12004/manager/html,04-INTEG OUTIL 1521,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:12004/manager/html,04-INTEG OUTIL 1522,,01-Manager Tomcat Intégration,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:13000/manager/html,00-ACCEP APP 1520,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:13000/manager/html,00-ACCEP APP 1521,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:13000/manager/html,00-ACCEP APP 1522,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:13001/manager/html,01-ACCEP IMP 1520,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:13001/manager/html,01-ACCEP IMP 1521,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:13001/manager/html,01-ACCEP IMP 1522,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:13002/manager/html,02-ACCEP WS 1520,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:13002/manager/html,02-ACCEP WS 1521,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:13002/manager/html,02-ACCEP WS 1522,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:13003/manager/html,03-ACCEP EI 1520,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:13003/manager/html,03-ACCEP EI 1521,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:13003/manager/html,03-ACCEP EI 1522,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01520.isn.rtss.qc.ca:13004/manager/html,04-ACCEP OUTIL 1520,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01521.isn.rtss.qc.ca:13004/manager/html,04-ACCEP OUTIL 1521,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01522.isn.rtss.qc.ca:13004/manager/html,04-ACCEP OUTIL 1522,,02-Manager Tomcat Acceptation,5,,,manager,M4n4g3r!
+http://tcn00qubc01708.isn.rtss.qc.ca:14000/manager/html,00-PREPROD APP 1708,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01709.isn.rtss.qc.ca:14000/manager/html,00-PREPROD APP 1709,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01710.isn.rtss.qc.ca:14000/manager/html,00-PREPROD APP 1710,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01708.isn.rtss.qc.ca:14001/manager/html,01-PREPROD IMP 1708,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01709.isn.rtss.qc.ca:14001/manager/html,01-PREPROD IMP 1709,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01710.isn.rtss.qc.ca:14001/manager/html,01-PREPROD IMP 1710,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01708.isn.rtss.qc.ca:14002/manager/html,02-PREPROD WS 1708,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01709.isn.rtss.qc.ca:14002/manager/html,02-PREPROD WS 1709,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01710.isn.rtss.qc.ca:14002/manager/html,02-PREPROD WS 1710,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01708.isn.rtss.qc.ca:14003/manager/html,03-PREPROD EI 1708,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01709.isn.rtss.qc.ca:14003/manager/html,03-PREPROD EI 1709,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01710.isn.rtss.qc.ca:14003/manager/html,03-PREPROD EI 1710,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01708.isn.rtss.qc.ca:14004/manager/html,04-PREPROD OUTIL 1708,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01709.isn.rtss.qc.ca:14004/manager/html,04-PREPROD OUTIL 1709,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01710.isn.rtss.qc.ca:14004/manager/html,04-PREPROD OUTIL 1710,,03-Manager Tomcat Pré-Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:15000/manager/html,00-FORM APP 1711,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:15000/manager/html,00-FORM APP 1712,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:15000/manager/html,00-FORM APP 1713,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:15001/manager/html,01-FORM IMP 1711,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:15001/manager/html,01-FORM IMP 1712,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:15001/manager/html,01-FORM IMP 1713,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:15002/manager/html,02-FORM WS 1711,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:15002/manager/html,02-FORM WS 1712,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:15002/manager/html,02-FORM WS 1713,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:15003/manager/html,03-FORM EI 1711,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:15003/manager/html,03-FORM EI 1712,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:15003/manager/html,03-FORM EI 1713,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:15004/manager/html,04-FORM OUTIL 1711,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:15004/manager/html,04-FORM OUTIL 1712,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:15004/manager/html,04-FORM OUTIL 1713,,04-Manager Tomcat Formation,5,,,manager,M4n4g3r!
+http://tcn00qubc02071.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 2071,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02072.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 2072,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02073.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 2073,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02074.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 2074,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02075.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 2075,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02071.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 2071,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02072.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 2072,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02073.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 2073,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02074.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 2074,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02075.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 2075,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02071.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 2071,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02072.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 2072,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02073.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 2073,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02074.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 2074,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02075.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 2075,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02071.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 2071,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02072.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 2072,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02073.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 2073,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02074.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 2074,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02075.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 2075,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02071.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 2071,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02072.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 2072,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02073.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 2073,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02074.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 2074,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc02075.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 2075,,05-Manager Tomcat Production,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 1711,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 1712,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:17000/manager/html,00-PROD APP 1713,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 1711,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 1712,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:17001/manager/html,01-PROD IMP 1713,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 1711,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 1712,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:17002/manager/html,02-PROD WS 1713,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 1711,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 1712,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:17003/manager/html,03-PROD EI 1713,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01711.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 1711,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01712.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 1712,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01713.isn.rtss.qc.ca:17004/manager/html,04-PROD OUTIL 1713,,06-Manager Tomcat Production Ancienne,5,,,manager,M4n4g3r!
+http://tcn00qubc01505.isn.rtss.qc.ca:10000/application/,00-RSIPA Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10000/application/,00-RSIPA Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10000/application/,00-RSIPA Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://app-fon.rsipa.rtss.qc.ca/application/,00-RSIPA Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://app-fon.rsipa.rtss.qc.ca/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10001/impression/application.wadl,02-Impression Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10001/impression/application.wadl,02-Impression Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10001/impression/application.wadl,02-Impression Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://imp-fon.rsipa.rtss.qc.ca/impression/application.wadl,02-Impression Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://imp-fon.rsipa.rtss.qc.ca/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://ws-fon.rsipa.rtss.qc.ca/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://ws-fon.rsipa.rtss.qc.ca/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10002/service/ws/plan/v1/application.wadl,06-WS-Plan Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10002/service/ws/plan/v1/application.wadl,06-WS-Plan Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10002/service/ws/plan/v1/application.wadl,06-WS-Plan Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://ws-fon.rsipa.rtss.qc.ca/service/ws/plan/v1/application.wadl,06-WS-Plan Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10003/service/ws/hl7/v1/?wsdl,07-EI Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10003/service/ws/hl7/v1/?wsdl,07-EI Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10003/service/ws/hl7/v1/?wsdl,07-EI Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://ei-fon.rsipa.rtss.qc.ca/service/ws/hl7/v1/?wsdl,07-EI Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/rsipa-administration/,08-RSIPA-Administration Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/rsipa-administration/,08-RSIPA-Administration Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/rsipa-administration/,08-RSIPA-Administration Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://outil-fon.rsipa.rtss.qc.ca/rsipa-administration/,08-RSIPA-Administration Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/rsipa-diagnostic/,09-RSIPA-Diagnostic Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/rsipa-diagnostic/,09-RSIPA-Diagnostic Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/rsipa-diagnostic/,09-RSIPA-Diagnostic Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://outil-fon.rsipa.rtss.qc.ca/rsipa-diagnostic/,09-RSIPA-Diagnostic Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/simulateur-arrimage/,10-Simulateur-arrimage Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/simulateur-arrimage/,10-Simulateur-arrimage Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/simulateur-arrimage/,10-Simulateur-arrimage Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://outil-fon.rsipa.rtss.qc.ca/simulateur-arrimage/,10-Simulateur-arrimage Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://outil-fon.rsipa.rtss.qc.ca/webhelp/Aide_clinique_2012.htm,11-RoboHelp Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/rsipa-outils/,12-RSIPA-Outils Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/rsipa-outils/,12-RSIPA-Outils Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/rsipa-outils/,12-RSIPA-Outils Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://outil-fon.rsipa.rtss.qc.ca/rsipa-outils/,12-RSIPA-Outils Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01505.isn.rtss.qc.ca:10004/rsipa-rocketui-doc/,13-RSIPA-Rocket-UI Fonctionnel 1505,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01506.isn.rtss.qc.ca:10004/rsipa-rocketui-doc/,13-RSIPA-Rocket-UI Fonctionnel 1506,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01519.isn.rtss.qc.ca:10004/rsipa-rocketui-doc/,13-RSIPA-Rocket-UI Fonctionnel 1519,,06-RSIPA Tomcat Fonctionnel,5,,,,
+https://outil-fon.rsipa.rtss.qc.ca/rsipa-rocketui-doc/,13-RSIPA-Rocket-UI Fonctionnel DNS/VIP,,06-RSIPA Tomcat Fonctionnel,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12000/application/,00-RSIPA Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12000/application/,00-RSIPA Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12000/application/,00-RSIPA Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+https://app-int.rsipa.rtss.qc.ca/application/,00-RSIPA Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+http://app-int.rsipa.rtss.qc.ca/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12001/impression/application.wadl,02-Impression Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12001/impression/application.wadl,02-Impression Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12001/impression/application.wadl,02-Impression Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+http://imp-int.rsipa.rtss.qc.ca/impression/application.wadl,02-Impression Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+http://imp-int.rsipa.rtss.qc.ca/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+http://ws-int.rsipa.rtss.qc.ca/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+http://ws-int.rsipa.rtss.qc.ca/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12002/service/ws/plan/v1/application.wadl,06-WS-Plan Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12002/service/ws/plan/v1/application.wadl,06-WS-Plan Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12002/service/ws/plan/v1/application.wadl,06-WS-Plan Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+http://ws-int.rsipa.rtss.qc.ca/service/ws/plan/v1/application.wadl,06-WS-Plan Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12003/service/ws/hl7/v1/?wsdl,07-EI Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12003/service/ws/hl7/v1/?wsdl,07-EI Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12003/service/ws/hl7/v1/?wsdl,07-EI Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+https://ei-int.rsipa.rtss.qc.ca/service/ws/hl7/v1/?wsdl,07-EI Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12004/rsipa-administration/,08-RSIPA-Administration Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12004/rsipa-administration/,08-RSIPA-Administration Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12004/rsipa-administration/,08-RSIPA-Administration Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+https://outil-int.rsipa.rtss.qc.ca/rsipa-administration/,08-RSIPA-Administration Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12004/rsipa-diagnostic/,09-RSIPA-Diagnostic Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12004/rsipa-diagnostic/,09-RSIPA-Diagnostic Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12004/rsipa-diagnostic/,09-RSIPA-Diagnostic Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+https://outil-int.rsipa.rtss.qc.ca/rsipa-diagnostic/,09-RSIPA-Diagnostic Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12004/simulateur-arrimage/,10-Simulateur-arrimage Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12004/simulateur-arrimage/,10-Simulateur-arrimage Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12004/simulateur-arrimage/,10-Simulateur-arrimage Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+https://outil-int.rsipa.rtss.qc.ca/simulateur-arrimage/,10-Simulateur-arrimage Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:12004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Intégration 1520,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:12004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Intégration 1521,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:12004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Intégration 1522,,07-RSIPA Tomcat Intégration,5,,,,
+https://outil-int.rsipa.rtss.qc.ca/webhelp/Aide_clinique_2012.htm,11-RoboHelp Intégration DNS/VIP,,07-RSIPA Tomcat Intégration,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13000/application/,00-RSIPA Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13000/application/,00-RSIPA Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13000/application/,00-RSIPA Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+https://app-acc.rsipa.rtss.qc.ca/application/,00-RSIPA Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+http://app-acc.rsipa.rtss.qc.ca/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13001/impression/application.wadl,02-Impression Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13001/impression/application.wadl,02-Impression Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13001/impression/application.wadl,02-Impression Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+http://imp-acc.rsipa.rtss.qc.ca/impression/application.wadl,02-Impression Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+http://imp-acc.rsipa.rtss.qc.ca/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+http://ws-acc.rsipa.rtss.qc.ca/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+http://ws-acc.rsipa.rtss.qc.ca/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13002/service/ws/plan/v1/application.wadl,06-WS-Plan Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13002/service/ws/plan/v1/application.wadl,06-WS-Plan Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13002/service/ws/plan/v1/application.wadl,06-WS-Plan Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+http://ws-acc.rsipa.rtss.qc.ca/service/ws/plan/v1/application.wadl,06-WS-Plan Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13003/service/ws/hl7/v1/?wsdl,07-EI Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13003/service/ws/hl7/v1/?wsdl,07-EI Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13003/service/ws/hl7/v1/?wsdl,07-EI Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+https://ei-acc.rsipa.rtss.qc.ca/service/ws/hl7/v1/?wsdl,07-EI Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13004/rsipa-administration/,08-RSIPA-Administration Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13004/rsipa-administration/,08-RSIPA-Administration Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13004/rsipa-administration/,08-RSIPA-Administration Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+https://outil-acc.rsipa.rtss.qc.ca/rsipa-administration/,08-RSIPA-Administration Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13004/rsipa-diagnostic/,09-RSIPA-Diagnostic Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13004/rsipa-diagnostic/,09-RSIPA-Diagnostic Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13004/rsipa-diagnostic/,09-RSIPA-Diagnostic Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+https://outil-acc.rsipa.rtss.qc.ca/rsipa-diagnostic/,09-RSIPA-Diagnostic Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13004/simulateur-arrimage/,10-Simulateur-arrimage Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13004/simulateur-arrimage/,10-Simulateur-arrimage Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13004/simulateur-arrimage/,10-Simulateur-arrimage Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+https://outil-acc.rsipa.rtss.qc.ca/simulateur-arrimage/,10-Simulateur-arrimage Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01520.isn.rtss.qc.ca:13004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Acceptation 1520,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01521.isn.rtss.qc.ca:13004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Acceptation 1521,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01522.isn.rtss.qc.ca:13004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Acceptation 1522,,08-RSIPA Tomcat Acceptation,5,,,,
+https://outil-acc.rsipa.rtss.qc.ca/webhelp/Aide_clinique_2012.htm,11-RoboHelp Acceptation DNS/VIP,,08-RSIPA Tomcat Acceptation,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14000/application/,00-RSIPA Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14000/application/,00-RSIPA Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14000/application/,00-RSIPA Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+https://app-pre.rsipa.rtss.qc.ca/application/,00-RSIPA Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://app-pre.rsipa.rtss.qc.ca/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14001/impression/application.wadl,02-Impression Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14001/impression/application.wadl,02-Impression Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14001/impression/application.wadl,02-Impression Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://imp-pre.rsipa.rtss.qc.ca/impression/application.wadl,02-Impression Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://imp-pre.rsipa.rtss.qc.ca/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://ws-pre.rsipa.rtss.qc.ca/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://ws-pre.rsipa.rtss.qc.ca/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14002/service/ws/plan/v1/application.wadl,06-WS-Plan Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14002/service/ws/plan/v1/application.wadl,06-WS-Plan Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14002/service/ws/plan/v1/application.wadl,06-WS-Plan Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://ws-pre.rsipa.rtss.qc.ca/service/ws/plan/v1/application.wadl,06-WS-Plan Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14003/service/ws/hl7/v1/?wsdl,07-EI Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14003/service/ws/hl7/v1/?wsdl,07-EI Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14003/service/ws/hl7/v1/?wsdl,07-EI Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+https://ei-pre.rsipa.rtss.qc.ca/service/ws/hl7/v1/?wsdl,07-EI Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14004/rsipa-administration/,08-RSIPA-Administration Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14004/rsipa-administration/,08-RSIPA-Administration Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14004/rsipa-administration/,08-RSIPA-Administration Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+https://outil-pre.rsipa.rtss.qc.ca/rsipa-administration/,08-RSIPA-Administration Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14004/rsipa-diagnostic/,09-RSIPA-Diagnostic Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14004/rsipa-diagnostic/,09-RSIPA-Diagnostic Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14004/rsipa-diagnostic/,09-RSIPA-Diagnostic Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+https://outil-pre.rsipa.rtss.qc.ca/rsipa-diagnostic/,09-RSIPA-Diagnostic Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14004/simulateur-arrimage/,10-Simulateur-arrimage Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14004/simulateur-arrimage/,10-Simulateur-arrimage Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14004/simulateur-arrimage/,10-Simulateur-arrimage Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+https://outil-pre.rsipa.rtss.qc.ca/simulateur-arrimage/,10-Simulateur-arrimage Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01708.isn.rtss.qc.ca:14004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Pré-Production 1708,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01709.isn.rtss.qc.ca:14004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Pré-Production 1709,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01710.isn.rtss.qc.ca:14004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Pré-Production 1710,,09-RSIPA Tomcat Pré-Production,5,,,,
+https://outil-pre.rsipa.rtss.qc.ca/webhelp/Aide_clinique_2012.htm,11-RoboHelp Pré-Production DNS/VIP,,09-RSIPA Tomcat Pré-Production,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15000/application/,00-RSIPA Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15000/application/,00-RSIPA Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15000/application/,00-RSIPA Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+https://app-for.rsipa.rtss.qc.ca/application/,00-RSIPA Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+http://app-for.rsipa.rtss.qc.ca/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15001/impression/application.wadl,02-Impression Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15001/impression/application.wadl,02-Impression Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15001/impression/application.wadl,02-Impression Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+http://imp-for.rsipa.rtss.qc.ca/impression/application.wadl,02-Impression Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+http://imp-for.rsipa.rtss.qc.ca/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+http://ws-for.rsipa.rtss.qc.ca/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+http://ws-for.rsipa.rtss.qc.ca/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15002/service/ws/plan/v1/application.wadl,06-WS-Plan Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15002/service/ws/plan/v1/application.wadl,06-WS-Plan Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15002/service/ws/plan/v1/application.wadl,06-WS-Plan Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+http://ws-for.rsipa.rtss.qc.ca/service/ws/plan/v1/application.wadl,06-WS-Plan Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15003/service/ws/hl7/v1/?wsdl,07-EI Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15003/service/ws/hl7/v1/?wsdl,07-EI Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15003/service/ws/hl7/v1/?wsdl,07-EI Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+https://ei-for.rsipa.rtss.qc.ca/service/ws/hl7/v1/?wsdl,07-EI Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15004/rsipa-administration/,08-RSIPA-Administration Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15004/rsipa-administration/,08-RSIPA-Administration Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15004/rsipa-administration/,08-RSIPA-Administration Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+https://outil-for.rsipa.rtss.qc.ca/rsipa-administration/,08-RSIPA-Administration Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15004/rsipa-diagnostic/,09-RSIPA-Diagnostic Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15004/rsipa-diagnostic/,09-RSIPA-Diagnostic Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15004/rsipa-diagnostic/,09-RSIPA-Diagnostic Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+https://outil-for.rsipa.rtss.qc.ca/rsipa-diagnostic/,09-RSIPA-Diagnostic Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15004/simulateur-arrimage/,10-Simulateur-arrimage Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15004/simulateur-arrimage/,10-Simulateur-arrimage Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15004/simulateur-arrimage/,10-Simulateur-arrimage Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+https://outil-for.rsipa.rtss.qc.ca/simulateur-arrimage/,10-Simulateur-arrimage Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:15004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Formation 1711,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:15004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Formation 1712,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:15004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Formation 1713,,10-RSIPA Tomcat Formation,5,,,,
+https://outil-for.rsipa.rtss.qc.ca/webhelp/Aide_clinique_2012.htm,11-RoboHelp Formation DNS/VIP,,10-RSIPA Tomcat Formation,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 2075,,11-RSIPA Tomcat Production,5,,,,
+https://app-pro.rsipa.rtss.qc.ca/application/,00-RSIPA Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 2075,,11-RSIPA Tomcat Production,5,,,,
+http://app-pro.rsipa.rtss.qc.ca/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 2075,,11-RSIPA Tomcat Production,5,,,,
+http://imp-pro.rsipa.rtss.qc.ca/impression/application.wadl,02-Impression Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 2075,,11-RSIPA Tomcat Production,5,,,,
+http://imp-pro.rsipa.rtss.qc.ca/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 2075,,11-RSIPA Tomcat Production,5,,,,
+http://ws-pro.rsipa.rtss.qc.ca/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 2075,,11-RSIPA Tomcat Production,5,,,,
+http://ws-pro.rsipa.rtss.qc.ca/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 2075,,11-RSIPA Tomcat Production,5,,,,
+http://ws-pro.rsipa.rtss.qc.ca/service/ws/plan/v1/application.wadl,06-WS-Plan Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 2075,,11-RSIPA Tomcat Production,5,,,,
+https://ei-pro.rsipa.rtss.qc.ca/service/ws/hl7/v1/?wsdl,07-EI Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 2075,,11-RSIPA Tomcat Production,5,,,,
+https://outil-pro.rsipa.rtss.qc.ca/rsipa-administration/,08-RSIPA-Administration Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 2075,,11-RSIPA Tomcat Production,5,,,,
+https://outil-pro.rsipa.rtss.qc.ca/rsipa-diagnostic/,09-RSIPA-Diagnostic Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 2075,,11-RSIPA Tomcat Production,5,,,,
+https://outil-pro.rsipa.rtss.qc.ca/simulateur-arrimage/,10-Simulateur-arrimage Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02071.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 2071,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02072.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 2072,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02073.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 2073,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02074.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 2074,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc02075.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 2075,,11-RSIPA Tomcat Production,5,,,,
+https://outil-pro.rsipa.rtss.qc.ca/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production DNS/VIP,,11-RSIPA Tomcat Production,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17000/application/,00-RSIPA Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17000/dgti-auth-sso/utilisateur/get/9999999999,01-DGTI-Auth Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17001/impression/application.wadl,02-Impression Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17001/service/imp/evaluation/v1/application.wadl,03-Impression-Eval-OCCI Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17002/service/ws/authentification/v1/application.wadl,04-WS-RSIPA-Auth Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17002/service/ws/evaluation/v1/application.wadl,05-WS-Evaluation Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17002/service/ws/plan/v1/application.wadl,06-WS-Plan Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17003/service/ws/hl7/v1/?wsdl,07-EI Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17004/rsipa-administration/,08-RSIPA-Administration Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17004/rsipa-diagnostic/,09-RSIPA-Diagnostic Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17004/simulateur-arrimage/,10-Simulateur-arrimage Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01711.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 1711,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01712.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 1712,,12-RSIPA Tomcat Production Ancienne,5,,,,
+http://tcn00qubc01713.isn.rtss.qc.ca:17004/webhelp/Aide_clinique_2012.htm,11-RoboHelp Production 1713,,12-RSIPA Tomcat Production Ancienne,5,,,,
